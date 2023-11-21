@@ -1,0 +1,6 @@
+.vs/
+artifacts/
+*.sln
+*.kproj
+*.kproj.user
+README.txt
